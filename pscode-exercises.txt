@@ -1,0 +1,38 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+a + b = c
+
+num1 + num2 = sum
+display sum
+
+ask for 2 numbers 
+add the 2 number together 
+display the sum of those 2 numbers
+
+// Exercise 2: Check if a Number is Even or Odd
+check if num is even or odd
+show numbers 0-100
+y=odd numbers
+x=even
+odd numbers are not divisible by 2
+check num 0-100
+ list (odd numbers) 
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+a) Read in 5 separate numbers.   
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
+
+a) list numbers 0-100 
+	q=10, r=20, s=30, t=40, u=50
+b) sum=x
+	q+r+s+t+u=sum
+
+   divide x by u and display sum 
+c)display lowest number and highest number in sequence from smallest to largest
+d) I workshopped this for a couple days, I guess I need more practice with pseudocode, because I can get a few mathematical predictions to go through, but I guess I'm just struggling with the wording. I plan on workshopping this until I get it to go through.
+
+-- END --
